@@ -4,7 +4,7 @@ from __future__ import print_function
 import keras as K
 from keras import regularizers
 from keras.layers import BatchNormalization, Activation
-from keras.layers import Conv2D
+from keras.layers import Conv2D, Conv3D
 from keras import layers
 from keras import models
 from keras.layers.core import Lambda
